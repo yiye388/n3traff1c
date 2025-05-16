@@ -26,10 +26,6 @@ If you're experiencing issues or have feedback (especially regarding Wi-Fi suppo
 
 📧 **damiengilly2013@gmail.com**
 
-## License
-
-This project is released under the [MIT License](LICENSE).
-
 ---
 
-*Built with love for packet nerds.*
+*Built with love for people who go crazy over monitoring things.*
